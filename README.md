@@ -7,6 +7,7 @@ Python 3.6
 ## Instalação
 
 git clone https://github.com/anderson-matheus/sentiment-analysis.git<br />
+cd sentiment-analysis<br />
 virtualenv venv<br />
 source venv/bin/activate<br />
 pip3 install -r requirements.txt<br />
